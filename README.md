@@ -88,9 +88,15 @@ If you find this repository helpful, don't forget to ⭐ the repository.
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/swar2006/DAA-Assignment/tree/master/0004-median-of-two-sorted-arrays) |
 | [0162-find-peak-element](https://github.com/swar2006/DAA-Assignment/tree/master/0162-find-peak-element) |
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/swar2006/DAA-Assignment/tree/master/0004-median-of-two-sorted-arrays) |
 | [0162-find-peak-element](https://github.com/swar2006/DAA-Assignment/tree/master/0162-find-peak-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/swar2006/DAA-Assignment/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
