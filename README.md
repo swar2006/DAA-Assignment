@@ -82,3 +82,15 @@ LeetCode-Assignments/
 **Swar Parikh**
 
 If you find this repository helpful, don't forget to ⭐ the repository.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/swar2006/DAA-Assignment/tree/master/0162-find-peak-element) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/swar2006/DAA-Assignment/tree/master/0162-find-peak-element) |
+<!---LeetCode Topics End-->
